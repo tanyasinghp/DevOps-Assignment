@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@sentry/cli": "^2.43.0",
+    "@sentry/cli": "^2.58.2",
     "@sentry/node": "^9.14.0",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
